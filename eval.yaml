@@ -1,4 +1,5 @@
 resources:
+  cloud: aws
   cpus: 1+
   # Add GPUs here
 
